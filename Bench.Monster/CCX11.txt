@@ -1,0 +1,74 @@
+---------------------------------------------------------------------------
+ OS           : Rocky 8.5 (64 Bit)
+ Virt/Kernel  : KVM / 4.18.0-348.12.2.el8_5.x86_64
+ CPU Model    : Intel Xeon Processor (Skylake, IBRS)
+ CPU Cores    : 2 @ 2294.608 MHz x86_64 16384 KB Cache
+ CPU Flags    : AES-NI Enabled & VM-x/AMD-V Disabled
+ Load Average : 0.17, 0.04, 0.01
+ Total Space  : 76G (1.3G ~2% used)
+ Total RAM    : 7578 MB (131 MB + 476 MB Buff in use)
+ Total SWAP   : 0 MB (0 MB in use)
+ Uptime       : 0 days 0:0
+---------------------------------------------------------------------------
+ ASN & ISP    : AS24940, Hetzner Online GmbH
+ Organization : Hetzner
+ Location     : Nuremberg, Germany / DE
+ Region       : Bavaria
+---------------------------------------------------------------------------
+
+ ## Geekbench v4 CPU Benchmark:
+
+  Single Core : 4244  (VERY GOOD)
+   Multi Core : 4856
+
+ ## IO Test
+
+ CPU Speed:
+    bzip2     :  88.9 MB/s
+   sha256     : 241 MB/s
+   md5sum     : 590 MB/s
+
+ RAM Speed:
+   Avg. write : 2798.9 MB/s
+   Avg. read  : 6246.4 MB/s
+
+ Disk Speed:
+   1st run    : 820 MB/s
+   2nd run    : 811 MB/s
+   3rd run    : 813 MB/s
+   -----------------------
+   Average    : 814.7 MB/s
+
+ ## Global Speedtest.net
+
+ Location                       Upload           Download         Ping
+---------------------------------------------------------------------------
+ Nearby                         407.57 Mbit/s    312.21 Mbit/s    13.321 ms
+---------------------------------------------------------------------------
+ USA, New York (Optimum)        248.41 Mbit/s    188.55 Mbit/s    84.121 ms
+ USA, Chicago (Windstream)      216.21 Mbit/s    501.51 Mbit/s    96.525 ms
+ USA, Dallas (Frontier)         17.08 Mbit/s     408.76 Mbit/s   126.704 ms
+ USA, Miami (Sprint)            176.06 Mbit/s    180.07 Mbit/s   119.562 ms
+ USA, Los Angeles (Windstream)  145.79 Mbit/s    341.63 Mbit/s   140.672 ms
+ UK, London (toob Ltd)          334.74 Mbit/s    1050.54 Mbit/s   17.446 ms
+ France, Lyon (SFR)             177.16 Mbit/s    427.01 Mbit/s    19.798 ms
+ Germany, Berlin (DNS:NET)      895.02 Mbit/s    2200.10 Mbit/s   14.691 ms
+ Spain, Madrid (MasMovil)       710.92 Mbit/s    1563.32 Mbit/s   28.174 ms
+ Italy, Rome (Unidata)          591.84 Mbit/s    996.91 Mbit/s    31.113 ms
+ Russia, Moscow (Rostelecom)    377.60 Mbit/s    1116.43 Mbit/s   44.755 ms
+ India, Mumbai (OneBroadband)   23.21 Mbit/s     76.06 Mbit/s    293.598 ms
+ Singapore (FirstMedia)         84.32 Mbit/s     36.37 Mbit/s    148.926 ms
+ Japan, Tsukuba (SoftEther)     65.27 Mbit/s     88.20 Mbit/s    239.843 ms
+ Australia, Sydney (Optus)      11.38 Mbit/s     63.37 Mbit/s    291.100 ms
+ RSA, Randburg (Cool Ideas)     112.03 Mbit/s    267.09 Mbit/s   178.606 ms
+ Brazil, Sao Paulo (Criare)     90.41 Mbit/s     172.54 Mbit/s   189.830 ms
+---------------------------------------------------------------------------
+
+ Finished in : 9 min 4 sec
+ Timestamp   : 2022-02-18 18:37:08 GMT
+ Saved in    : /root/speedtest.log
+
+ Share results:
+ - https://www.speedtest.net/result/12783093152.png
+ - https://browser.geekbench.com/v4/cpu/16491199
+ - https://clbin.com/ZOkxW
